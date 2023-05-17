@@ -1,0 +1,15 @@
+https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_Scripting/generator/description/bindings.desc
+
+https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_Scripting/docs/docs.lua
+
+https://www.lua.org/manual/5.4/
+
+https://mavlink.io/en/mavgen_python/
+
+https://github.com/yuri-rage/lua_live_stream
+
+https://ardupilot.org/copter/docs/common-lua-scripts.html
+
+https://ardupilot.org/copter/docs/parameters.html
+
+https://github.com/ArduPilot/ardupilot/tree/ArduCopter-stable/libraries/AP_Scripting/examples
